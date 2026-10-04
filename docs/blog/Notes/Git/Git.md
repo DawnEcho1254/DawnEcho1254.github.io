@@ -220,3 +220,6 @@ git pull upstream main
     ```shell
     git reset --hard < 提交哈希 >
     ```
+
+
+## *The end*
