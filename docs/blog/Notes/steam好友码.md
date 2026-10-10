@@ -12,4 +12,8 @@ permalink: /blog/steamfriendcode/
 
 ## **好友码是 1511810319**  
 
+``` 你可以点这里复制
+1511810319
+```
+
 ## *The end*
