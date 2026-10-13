@@ -171,9 +171,12 @@ export default defineUserConfig({
      admin: ['adminpasswd'],
      // 对的对的，这就是adminpasswd
      rules: {
-       '/blog/lock/' : 'nopasswd',
-       // 咦嘻嘻嘻嘻
-     },
+       '/blog/Notes/lock/' : 'nopasswd',
+      // 咦嘻嘻嘻嘻
+       '/blog/Notes/关于微观物理/' : '你真的想看屎吗'
+      // 只是暂时加密....(吧？
+      //你真的想看屎吗
+      },
     },
 
     /**
