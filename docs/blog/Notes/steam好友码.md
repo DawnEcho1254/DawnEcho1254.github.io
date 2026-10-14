@@ -16,4 +16,8 @@ permalink: /blog/steamfriendcode/
 1511810319
 ```
 
+!!为什么不直接进个人资料页加呢....!!
+
+[steam个人资料页](https://steamcommunity.com/profiles/76561199472076047)
+
 ## *The end*
